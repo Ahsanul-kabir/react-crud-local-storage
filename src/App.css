@@ -1,0 +1,69 @@
+a{
+  text-decoration: none;
+}
+/* Info */
+.form-container{
+  height: 45vh;
+  width: 70%;
+  background-color: rgb(232, 240, 240);
+  margin: 5% auto;
+  padding: 30px;
+  border-radius: 5px;
+}
+.form-container input{
+  width: 40%;
+  height: 30px;
+  margin: 15px;
+  padding: 5px;
+}
+
+.form-container button{
+  margin: 15px;
+  padding: 10px;
+  color: green;
+}
+
+
+/* View */
+.data-view{
+  height: 25vh;
+  width: 50%;
+  background-color: rgb(232, 240, 240);
+  margin: 5% auto;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+.data-view .deleteItem{
+  margin: 15px;
+  padding: 10px;
+  color: red;
+}
+
+.data-view .editItem{
+  margin: 15px;
+  padding: 10px;
+  color: blue;
+}
+
+
+
+/*
+.table {
+  display: table;
+  width: auto;
+  border: 1px solid #666666;
+}
+
+.table-row {
+  display: table-row;
+  width: auto;
+  clear: both;
+}
+
+.table-col {
+  float: left;
+  display: table-column;
+  width: 200px;
+  border: 1px solid #ccc;
+} */
